@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GETGIVE</string>
+    <string name="go">GO</string>
+    <string name="todo">TODO</string>
+    <string name="my_profile">My Profile</string>
+    <string name="setting">Setting</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="open">NavBar</string>
+    <string name="close">NavBar</string>
+    <string name="general">General</string>
+    <string name="home">Home</string>
+    <string name="communication">Communication</string>
+    <string name="home1">Home</string>
+    <string name="another_menu1">Another Menu</string>
+    <string name="another_menu">Another Menu</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="load_fragment">Load Fragment</string>
+    <string name="give">GIVE</string>
+    <string name="get">GET</string>
+    <string name="button">Button</string>
+</resources>
